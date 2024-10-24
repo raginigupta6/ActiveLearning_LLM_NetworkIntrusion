@@ -1,4 +1,4 @@
-# Addressing Concept Drift in Network Intrusion Detection Systems
+# LLM Enhanced Active Learning Strategy for Network Intrusion Detection
 
 ## Overview
 
