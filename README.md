@@ -9,7 +9,7 @@ This repository explores various strategies for addressing concept drift in Netw
 - **Uncertainty Sampling**
 - **CoreSet-based Sample Selection**
 
-Additionally, we leverage Large Language Models (LLMs) to augment minority class data, specifically focusing on enhancing datasets related to botnet, DoS, and DDoS attacks.
+Additionally, we leverage Large Language Models (LLMs) using RealTabFormer (https://github.com/worldbank/REaLTabFormer) to augment minority class data, specifically focusing on enhancing datasets related to botnet, DoS, and DDoS attacks.
 
 ## Dataset
 
